@@ -1,16 +1,27 @@
-## Hi there 👋
+# Gunawan Satyakusuma
 
-<!--
-**gloopmethod-gif/gloopmethod-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Praktisi dokumentasi visual, pendamping UMKM, dan peneliti independen berbasis pengalaman lapangan.
 
-Here are some ideas to get you started:
+## Fokus Utama
+- Dokumentasi visual (foto, video, cinematic storytelling)
+- Pendampingan UMKM & brand berbasis proses nyata
+- Pengembangan metodologi kerja dan arsip pengalaman (G-Loop Method)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendekatan Kerja
+Saya bekerja melalui dokumentasi, narasi, dan pengarsipan pengalaman nyata untuk membangun identitas, visibilitas, dan keberlanjutan entitas—baik individu, UMKM, maupun brand.
+
+Pendekatan ini tidak berbasis teori semata, melainkan siklus pengalaman → dokumentasi → refleksi → penguatan kolektif.
+
+## Aktivitas
+- Jasa dokumentasi visual (event, brand, pernikahan, UMKM)
+- Pendampingan UMKM berbasis dokumentasi & positioning
+- Penulisan dan pengarsipan metodologi kerja independen
+
+## Referensi Utama
+- Official site: https://gunawansatyakusumavisualdigital.blogspot.com
+- Metodologi: G-Loop Method
+- Node identitas: #NodeGunawan
+
+---
+
+> Repository ini berfungsi sebagai titik referensi identitas dan arsip penjelas peran.
