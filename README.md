@@ -1,3 +1,5 @@
+<!-- profile README refresh trigger -->
+
 # Gunawan Satyakusuma
 
 Praktisi dokumentasi visual, pendamping UMKM, dan peneliti independen berbasis pengalaman lapangan.
